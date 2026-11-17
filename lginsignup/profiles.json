@@ -1,0 +1,55 @@
+{
+    "patient@gentlecare.com": {
+        "full_name": "Jephte James T. Sumagang",
+        "email": "patient@gentlecare.com",
+        "phone": "+63 912 345 6789",
+        "dob": "May 25, 2002",
+        "blood_type": "O+",
+        "avatar": "uploads\/avatar_patient_gentlecare_com_1791883817.png"
+    },
+    "admin@gentlecare.com": {
+        "full_name": "Jephte James Sumagang",
+        "email": "admin@gentlecare.com",
+        "phone": "+63 912 345 6789",
+        "position": "System Administrator",
+        "avatar": "uploads\/avatar_admin_gentlecare_com_1791942510.jpg"
+    },
+    "doctor@gentlecare.com": {
+        "full_name": "Dr. James Carl Vistal",
+        "email": "doctor@gentlecare.com",
+        "phone": "+63 912 345 6789",
+        "specialty": "General Medicine",
+        "license": "MD-2024-001",
+        "avatar": "uploads\/avatar_doctor_gentlecare_com_1791943618.jpg"
+    },
+    "staff@gentlecare.com": {
+        "full_name": "Jack Norris Inihao",
+        "email": "staff@gentlecare.com",
+        "phone": "+63 912 345 6789",
+        "position": "Clinic Staff",
+        "avatar": "uploads\/avatar_staff_gentlecare_com_1791944641.jpg"
+    },
+    "christianrefuela@gmail.com": {
+        "full_name": "Christian Refuela",
+        "email": "christianrefuela@gmail.com",
+        "phone": "+63 912 345 6789",
+        "dob": "June 21, 2005",
+        "blood_type": "A",
+        "avatar": ""
+    },
+    "shekina@email.com": {
+        "full_name": "Shekina Sumagang",
+        "email": "shekina@email.com",
+        "phone": "092729752",
+        "specialty": "General Medicine",
+        "license": "MD-2024-001",
+        "avatar": "uploads\/avatar_shekina_email_com_1792124056.jpg"
+    },
+    "clark@email.com": {
+        "full_name": "CK Perino",
+        "email": "clark@email.com",
+        "phone": "+63 912 345 6789",
+        "position": "Clinic Staff",
+        "avatar": "uploads\/avatar_clark_email_com_1792193992.jpg"
+    }
+}
